@@ -22,8 +22,7 @@ One of the key strengths of this project is its affordability and accessibility.
 
 In conclusion, the Home Automation and Safety System using ESP8266 is a versatile, cost-effective solution that addresses the essential needs of modern homeowners. By integrating automation, safety, and energy efficiency, the system exemplifies the potential of microcontroller-based solutions in transforming everyday living spaces into smart homes. The project not only simplifies daily tasks but also ensures a secure and sustainable environment, making it an invaluable addition to contemporary living.
 
-Introduction
-
+# Introduction
 Home automation systems have become an essential aspect of modern living, providing solutions that improve comfort, safety, and energy efficiency. With the rise of smart technologies and the Internet of Things (IoT), automation systems have evolved from being luxury items to practical necessities in both residential and commercial spaces. These systems enhance convenience by automating repetitive tasks, ensuring safety through advanced monitoring, and promoting energy conservation by optimizing resource usage.
 
 This project presents a Home Automation and Safety System designed around an ESP8266 microcontroller, showcasing a simple yet effective way to automate daily activities and ensure household safety. The system integrates multiple sensors and actuators to perform tasks such as automatic light control, fan operation, door opening, and gas leakage detection. These functionalities are executed seamlessly using a network of sensors and relays, demonstrating the capabilities of affordable and accessible microcontroller-based solutions.
@@ -40,8 +39,7 @@ All these functionalities are coordinated through the ESP8266 microcontroller, w
 
 This project exemplifies the potential of integrating affordable hardware and software solutions to create an intelligent, responsive, and energy-efficient home automation system. By addressing both safety and convenience, the system meets the essential requirements of modern homeowners, making it a valuable addition to contemporary living spaces.
 
-Objective
-
+# Objective
 The primary objective of the Home Automation and Safety System using ESP8266 is to enhance the convenience, safety, and energy efficiency of a residential environment. In an era where technology is becoming deeply integrated into daily life, this project focuses on using simple yet effective automation techniques to reduce manual intervention and improve overall living standards.
 
 One of the critical goals is detecting gas leakage and triggering an alarm to alert occupants. Gas leaks, often undetectable by humans, pose significant risks to life and property. By using an MQ-6 smoke detector, this system ensures real-time monitoring of air quality and immediate notification in the event of a gas leak, allowing occupants to take prompt action.
@@ -54,8 +52,7 @@ Lastly, the project seeks to automate home lighting using an LDR (Light Dependen
 
 In summary, this project is designed to combine safety, comfort, and energy efficiency, making it a practical solution for modern homes.
 
-Components Required
-
+# Components Required
 ESP8266 – Microcontroller for processing sensor inputs and controlling actuators.
 
 Smoke Detector MQ-6 – To sense the presence of flammable gases.
@@ -66,8 +63,7 @@ Ultrasonic Sensor – For detecting objects or people near the door.
 
 LDR (Light Dependent Resistor) – For detecting ambient light levels.
 
-System Design and Working
-
+# System Design and Working
 The Home Automation and Safety System using ESP8266 is designed to integrate various sensors and actuators, controlled by an ESP8266 microcontroller, to achieve seamless automation. The system ensures safety, convenience, and energy efficiency through four key functionalities:
 
 Smoke Detection
