@@ -1,7 +1,7 @@
 # Home-Automation
 Smart Home Automation using ESP8266 - An MPMC Project
-Abstract
 
+# Abstract
 The Home Automation and Safety System using ESP8266 is an innovative project designed to address the growing need for safety, energy efficiency, and convenience in modern homes. With advancements in microcontroller technology and sensor integration, this project demonstrates how simple components can create a smart and efficient home system. The system utilizes an ESP8266 microcontroller as the central unit, which coordinates the functionalities of several sensors and actuators to provide an automated living environment. Key features include gas leakage detection, automatic door opening, human presence detection, and light automation.
 
 The smoke detector (MQ-6) plays a critical role in identifying the presence of hazardous gases, such as liquefied petroleum gas (LPG) or methane, which pose significant safety risks in residential settings. When gas leakage is detected, the system immediately activates an alarm to alert occupants, providing a proactive safety measure to prevent accidents. This functionality ensures that homeowners are promptly informed of potential dangers, enabling quick responses to mitigate risks.
