@@ -52,6 +52,8 @@ Lastly, the project seeks to automate home lighting using an LDR (Light Dependen
 
 In summary, this project is designed to combine safety, comfort, and energy efficiency, making it a practical solution for modern homes.
 
+![IMG_0462](https://github.com/user-attachments/assets/8e43986b-f1cf-46af-a76e-8c84ca6f7321)
+
 # Components Required
 ESP8266 – Microcontroller for processing sensor inputs and controlling actuators.
 
@@ -60,8 +62,10 @@ Smoke Detector MQ-6 – To sense the presence of flammable gases.
 PIR Sensor – To detect human presence.
 
 Ultrasonic Sensor – For detecting objects or people near the door.
+Servo Motor
 
 LDR (Light Dependent Resistor) – For detecting ambient light levels.
+LEDs
 
 # System Design and Working
 The Home Automation and Safety System using ESP8266 is designed to integrate various sensors and actuators, controlled by an ESP8266 microcontroller, to achieve seamless automation. The system ensures safety, convenience, and energy efficiency through four key functionalities:
